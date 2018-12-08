@@ -1,4 +1,4 @@
-# ActiveRecord Associations in Sinatra
+Tux# ActiveRecord Associations in Sinatra
 
 ## Objectives
 
